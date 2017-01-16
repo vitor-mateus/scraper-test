@@ -1,6 +1,7 @@
 require "open-uri"
 require "nokogiri"
 
+
 class Scraper
 
 	attr_accessor :parse_page
